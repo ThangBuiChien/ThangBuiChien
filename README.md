@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThangBuiChien
 - 👀 I’m interested in ..Web and Software.
-- 🌱 I’m currently learning ..Web at school.
+- 🌱 I’m currently learning ..Web at university 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
