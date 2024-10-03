@@ -1,16 +1,6 @@
-- 👋 Hi, I’m @ThangBuiChien
-- 👀 I’m interested in ..Web and Software.
-- 🌱 I’m currently learning ..Web at university 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm [@ThangBuiChien]!
 
-<!---
-ThangBuiChien/ThangBuiChien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there 👋, I'm [Your Name]!
-
-I'm a passionate Web Developer with a knack for crafting scalable and efficient applications. I specialize in back-end development with a strong command over several programming languages and tools. 
+👀 I'm a passionate Web Developer with a knack for crafting scalable and efficient applications. I specialize in back-end development with a strong command over several programming languages and tools. 
 
 ## 🚀 Skills
 
@@ -22,10 +12,12 @@ I'm a passionate Web Developer with a knack for crafting scalable and efficient 
 ### Front-End:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ### Back-End:
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Microservices](https://img.shields.io/badge/Spring_Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### Messaging & Streaming:
@@ -41,10 +33,10 @@ I'm a passionate Web Developer with a knack for crafting scalable and efficient 
 I have worked on a variety of projects, ranging from building dynamic websites to developing complex microservices architectures. My experience spans various industries, and I'm always looking for new challenges.
 
 ## 🛠️ Projects
-- **[Project 1 Name]** - Short description of what this project is and the technology used.
-- **[Project 2 Name]** - Short description of what this project is and the technology used.
-- **[Project 3 Name]** - Short description of what this project is and the technology used.
+- **[Project 1 Name]** -
+- **[Project 2 Name]** - 
+- **[Project 3 Name]** -
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: []
+- Email: [buichienthang.developer@gmail.com]
