@@ -28,6 +28,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThangBuiChien&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThangBuiChien&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 ## 💼 Experience
 I have worked on a variety of projects, ranging from building dynamic websites to developing complex microservices architectures. My experience spans various industries, and I'm always looking for new challenges.
