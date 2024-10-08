@@ -3,6 +3,7 @@
 👀 I'm a passionate Web Developer with a knack for crafting scalable and efficient applications. I specialize in back-end development with a strong command over several programming languages and tools. 
 
 ## 🚀 Skills
+...
 
 ### Languages:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
