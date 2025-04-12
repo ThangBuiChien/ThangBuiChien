@@ -41,17 +41,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThangBuiChien&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-
-## 💼 Experience
-I have worked on a variety of projects, ranging from building dynamic websites to developing complex microservices architectures. My experience spans various industries, and I'm always looking for new challenges.
-
-## 🛠️ Projects
-- **[Project 1 Name]** -
-- **[Project 2 Name]** - 
-- **[Project 3 Name]** -
-
-## 📫 How to reach me:
-- LinkedIn: []
-- Email: [buichienthang.developer@gmail.com]
